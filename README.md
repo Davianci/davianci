@@ -2,8 +2,6 @@
 
 Bienenidos a mi espacio creativo de programación. Aquí vas a econtrar sitios web que he desarrollado: 
 
-<a href="https://creanimus.com/" target="_blank"><img src="https://i0.wp.com/creanimus.com/wp-content/uploads/2021/02/nlogo.png" alt="Creanimus" style="width:100px;"></a>
-
 ### Creanimus
 
 <a href="https://davianci.github.io/Creanimus1.0/" target="_blank"><img src="https://github.com/Davianci/Creanimus1.0/blob/main/creanimus/imagenes/creanimus1.png?raw=true" alt="Creanimus 1.0" style="width:300px;"></a>
